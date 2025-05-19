@@ -1,128 +1,120 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=header&text=Sashank%20Syba&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Developer%20|%20Problem%20Solver&descAlignY=60&descAlign=50" width="100%"/>
-</div>
-
-<p align="center">
-  <a href="mailto:sashanksyba@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sashank-syba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sashanksyba">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sashank!
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sashanksyba&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-## 🚀 About Me
+🎓 I'm a 3rd-year Computer Science student  
+💻 Passionate about Python, Java, and problem solving  
+🌱 Currently learning: Data Structures & Algorithms ([DSA](#-tech-stack--skills)), Web Development  
+🚀 Building [projects](#-projects) that blend innovation with real-world impact  
+📫 Reach me: [sashanksyba@gmail.com](mailto:sashanksyba@gmail.com)
 
-```javascript
-const sashank = {
-  education: "3rd Year Computer Science Student",
-  interests: ["Problem Solving", "Web Development", "Data Structures & Algorithms"],
-  currentlyLearning: ["Advanced DSA", "Full Stack Development"],
-  goals: "Building innovative solutions with real-world impact",
-  hobbies: ["Competitive Programming", "Open Source", "Project-Based Learning"]
-};
-```
+---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+## ⚡ Tech Stack & Skills
 
-- 🎓 Pursuing Computer Science degree
-- 💻 Passionate about coding and technology
-- 🌱 Always learning and growing
-- 🔭 Working on exciting projects
-- 📫 Reach me at: [sashanksyba@gmail.com](mailto:sashanksyba@gmail.com)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br clear="right"/>
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 💻 Tech Stack
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Other Interests
+- Competitive Programming
+- Project-Based Learning
+- Open Source
+
+---
+
+## 📘 Projects
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,sql&theme=dark" alt="Languages" />
-  
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Frameworks" />
-  
-  <h3>Tools & Technologies</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,sqlite,linux&theme=dark" alt="Tools" />
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="200"/>
 </div>
 
-## 🏆 Projects
+### SafeGuard
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-<div align="center">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sashanksyba&repo=SafeGuard&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="SafeGuard" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sashanksyba&repo=EnviroSync&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EnviroSync" />
-  </a>
-</div>
+A Women's Safety Web App built with HTML & CSS
+- Features real-time location tracking and emergency alerts
+- Responsive design for mobile and desktop use
+- Built with: `HTML5`, `CSS3`, `JavaScript`
 
-<div align="center">
-  <details>
-    <summary><b>🔍 Project Details</b></summary>
-    <br>
-    <table>
-      <tr>
-        <td>
-          <h3>SafeGuard</h3>
-          <p>A Women's Safety Web App with real-time location tracking and emergency alerts</p>
-          <p>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          </p>
-        </td>
-        <td>
-          <h3>EnviroSync</h3>
-          <p>Smart Cooling System with Temperature Monitoring using IoT</p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=arduino&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
-          </p>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
+### EnviroSync
+<img align="right" width="100" height="100" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
+Smart Cooling System with Temperature Monitoring using IoT
+- Automated temperature control system
+- Real-time monitoring dashboard
+- Built with: `Python`, `IoT sensors`, `Raspberry Pi`
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sashanksyba&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sashanksyba&show_icons=true&theme=tokyonight" alt="Sashank's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashanksyba&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashanksyba&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashanksyba&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&card_width=500" alt="Top Languages" />
-</div>
-
-## 🎯 Future Goals
-
-- 🌐 Contribute to more open-source projects
-- 📱 Develop mobile applications
-- 🤖 Explore machine learning and AI
-- 🚀 Build a comprehensive portfolio website
-- 📚 Master advanced programming concepts
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sashanksyba&theme=tokyonight&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sashanksyba&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashanksyba&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
+  <p><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></p>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=120&section=footer&animation=twinkling" width="100%"/>
+  <a href="https://www.linkedin.com/in/sashank-syba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sashanksyba@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/sashanksyba">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sashanksyba&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>⭐️ From <a href="https://github.com/sashanksyba">sashanksyba</a></p>
 </div>
