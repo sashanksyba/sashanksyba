@@ -1,18 +1,14 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Sashank!;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sashank!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="center">
-  <a href="mailto:sashanksyba@gmail.com"><img src="https://img.shields.io/badge/Email-sashanksyba%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sashank-syba"><img src="https://img.shields.io/badge/LinkedIn-Sashank-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/sashanksyba"><img src="https://img.shields.io/badge/GitHub-sashanksyba-blue?style=flat-square&logo=github"></a>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Science-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Year-3rd%20Year-yellow?style=flat-square">
-</p>
+🎓 I'm a 3rd-year Computer Science student  
+💻 Passionate about Python, Java, and problem solving  
+🌱 Currently learning: Data Structures & Algorithms ([DSA](#-tech-stack--skills)), Web Development  
+🚀 Building [projects](#-projects) that blend innovation with real-world impact  
+📫 Reach me: [sashanksyba@gmail.com](mailto:sashanksyba@gmail.com)
 
 ---
 
