@@ -1,120 +1,198 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sashank!
-
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Sashank!;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-🎓 I'm a 3rd-year Computer Science student  
-💻 Passionate about Python, Java, and problem solving  
-🌱 Currently learning: Data Structures & Algorithms ([DSA](#-tech-stack--skills)), Web Development  
-🚀 Building [projects](#-projects) that blend innovation with real-world impact  
-📫 Reach me: [sashanksyba@gmail.com](mailto:sashanksyba@gmail.com)
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+</div>
+
+<p align="center">
+  <a href="mailto:sashanksyba@gmail.com"><img src="https://img.shields.io/badge/Email-sashanksyba%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/sashank-syba"><img src="https://img.shields.io/badge/LinkedIn-Sashank-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/sashanksyba"><img src="https://img.shields.io/badge/GitHub-sashanksyba-blue?style=flat-square&logo=github"></a>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Science-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Year-3rd%20Year-yellow?style=flat-square">
+</p>
 
 ---
 
-## ⚡ Tech Stack & Skills
+<h2 align="center">⚡ Tech Stack & Skills</h2>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      </a>
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="48" height="48" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="48" height="48" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="48" height="48" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="48" height="48" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Other Interests
-- Competitive Programming
-- Project-Based Learning
-- Open Source
-
----
-
-## 📘 Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="200"/>
-</div>
-
-### SafeGuard
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
-
-A Women's Safety Web App built with HTML & CSS
-- Features real-time location tracking and emergency alerts
-- Responsive design for mobile and desktop use
-- Built with: `HTML5`, `CSS3`, `JavaScript`
-
-### EnviroSync
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-
-Smart Cooling System with Temperature Monitoring using IoT
-- Automated temperature control system
-- Real-time monitoring dashboard
-- Built with: `Python`, `IoT sensors`, `Raspberry Pi`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sashanksyba&show_icons=true&theme=tokyonight" alt="Sashank's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashanksyba&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sashanksyba&theme=tokyonight&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashanksyba&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
-  <p><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></p>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sashank-syba">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sashanksyba@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/sashanksyba">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sashanksyba&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+<h3 align="center">Other Interests</h3>
+<p align="center">
+  <code>Competitive Programming</code>
+  <code>Project-Based Learning</code>
+  <code>Open Source</code>
+  <code>Problem Solving</code>
+  <code>Data Structures & Algorithms</code>
+</p>
 
 ---
 
+<h2 align="center">📘 Projects</h2>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>⭐️ From <a href="https://github.com/sashanksyba">sashanksyba</a></p>
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">SafeGuard</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIxZDRiMzA0ZDRiMzM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="SafeGuard Project"/>
+          </a>
+          <p align="center">
+            A Women's Safety Web App with real-time location tracking and emergency alerts
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+          </p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">EnviroSync</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZiMzIxZDRiMzA0ZDRiMzM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZDM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%" alt="EnviroSync Project"/>
+          </a>
+          <p align="center">
+            Smart Cooling System with Temperature Monitoring using IoT
+          </p>
+          <p align="center">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=arduino&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
+          </p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sashanksyba&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sashanksyba&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sashanksyba&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sashanksyba&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sashanksyba&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashanksyba&theme=redical&hide_border=true" width="700"/>
+</div>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200">
+</div>
+
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/sashank-syba">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="mailto:sashanksyba@gmail.com">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="30" width="40" />
+    </a>
+    <a href="https://github.com/sashanksyba">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sashanksyba&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
